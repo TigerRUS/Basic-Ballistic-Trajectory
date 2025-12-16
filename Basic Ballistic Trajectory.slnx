@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Basic Ballistic Trajectory.vcxproj" />
+  <Project Path="Basic Ballistic Trajectory.vcxproj" Id="4bbc5152-2c62-4b0e-a7d6-4bba6a82a43d" />
 </Solution>
