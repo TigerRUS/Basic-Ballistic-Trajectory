@@ -1,4 +1,4 @@
 # Basic Ballistic Trajectory
 
-!\[ballistics](ballistics.png)
+![ballistics](ballistics.png)
 
